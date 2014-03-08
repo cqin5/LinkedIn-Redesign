@@ -49,14 +49,15 @@
 }
 #info_contact {
 	display: block;
-	height: auto;
+	height: 30px;
 	float: left;
 	width: 650px;;
-	padding: 0px;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 1px dotted rgba(0,176,5,1);
 	background-color: rgba(255,255,255,1.00);
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 #info_experience {
 	display: block;
@@ -148,6 +149,11 @@
 	height: auto;
 	width: 70px;
 	border: 1px solid rgba(258,180,0,1);
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-weight:normal;
+	font-size: 16px;
+	color: rgba(137,137,137,1.00);
+	
 }
 
 #info_contact_info {
@@ -157,8 +163,12 @@
 	padding: 0px;
 	float: left;
 	height: auto;
-	width: 30%;
+	width: 200px;
 	border: 1px solid rgba(58,80,250,1);
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-weight:normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1.00);
 }
 
 #info_contact_msg {
@@ -171,6 +181,11 @@
 	width: 70px;
 	border: 1px solid rgba(258,10,10,1);
 	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+}
+
+#info_contact_msg:hover {
+	background-color: rgba(206,206,206,1.00);
 }
 
 p {
