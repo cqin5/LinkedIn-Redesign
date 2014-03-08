@@ -59,7 +59,7 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-#info_experience {
+#background_container {
 	display: block;
 	height: auto;
 	float: left;
@@ -186,6 +186,29 @@
 
 #info_contact_msg:hover {
 	background-color: rgba(206,206,206,1.00);
+}
+
+.background_type_container {
+	display: block;
+	margin: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: 645px;
+	border: 1px solid rgba(258,10,10,1);
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-weight:normal;
+	font-size: 18px;
+}
+
+.experience_details {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 640px;
+	border: 1px solid rgba(255,126,6,1.00);
 }
 
 p {
