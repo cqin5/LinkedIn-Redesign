@@ -2,6 +2,22 @@
 <html>
   <head>
     <title>Contacts | LinkedIn</title>
+	
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Fonts -->
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom Theme CSS -->
+    <link href="css/chrome.css" rel="stylesheet">
+	<link href="css/profile.css" rel="stylesheet" type="text/css">		
+	
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
@@ -46,6 +62,11 @@
     </script>
   </head>
   <body>
+
+	<?php require($DOCUMENT_ROOT . "navigation.php"); ?>
+
+	<div class="spaceit"> <!--This creates the topspace... you should really design it a little differently though-->  
+  
     <div id="base" class="">
 
       <!-- Unnamed (Dynamic Panel) -->
@@ -1203,5 +1224,14 @@
         <img id="u239_line" class="img " src="images/contacts___linkedin/u237_line.png" alt="u239_line"/>
       </div>
     </div>
+	
+    <!-- Core JavaScript Files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/chrome.js"></script>
+	
   </body>
 </html>
