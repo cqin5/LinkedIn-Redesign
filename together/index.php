@@ -586,7 +586,7 @@
         <img id="u110_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u111" class="text">
-          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Study Quant Finance (CQF)</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">Take your career further with Paul Wilmott's CQF. Join us online on Apr. 3</span></p>
+          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Study Quant Finance (CQF)</span></p><p style="line-height:18px"><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">Take your career further with Paul Wilmott's CQF. Join us online on Apr. 3</span></p>
         </div>
       </div>
 
@@ -595,8 +595,8 @@
         <img id="u112_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u113" class="text">
-          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Ready to make an impact?</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">UOIT offers innovative research and modern graduate programs.</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">Learn More.</span></p>
-        </div>
+          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Ready to make an impact?</span></p><p style="line-height:18px"><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">UOIT offers innovative research and modern graduate programs.Learn More.</span></p>
+	</div>
       </div>
 
       <!-- dynamictext (Shape) -->
@@ -604,7 +604,8 @@
         <img id="u114_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u115" class="text">
-          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Sell products in Italy</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">We can support you entering the italian market! Don't miss the chance</span></p>
+	  <br>
+          <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">Sell products in Italy</span></p><p style="line-height:18px"><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#333333;">We can support you entering the italian market! Don't miss the chance</span></p>
         </div>
       </div>
     </div>
