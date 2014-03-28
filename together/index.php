@@ -327,7 +327,7 @@
               <img id="u55_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
               <div id="u56" class="text">
-                <p><span>See more &gt;&gt;</span></p>
+                <p><a href="contacts.php"><span>See more &gt;&gt;</span></a></p>
               </div>
             </div>
 
