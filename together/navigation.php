@@ -1,12 +1,12 @@
 <?php
 		echo '
-	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
 						<i class="fa fa-bars"></i>
 					</button>
-					<a class="navbar-brand centerit" href="index.php">
+					<a class="navbar-brand" href="#page-top">
 						<i class="fa fa-linkedin fa-lg"></i>
 					</a>
 			</div>
@@ -27,14 +27,14 @@
                         <a href="#">News</a>
                     </li>
 					<li>
-                        <a href="profile.php">Profile</a>
+                        <a href="#">Profile</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connections</a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Keep In Touch</a>
                             </li>
-                            <li><a href="contacts.php">Contacts</a>
+                            <li><a href="#">Import Contacts</a>
                             </li>
                             <li><a href="#">Find Alumni</a>
                             </li>
