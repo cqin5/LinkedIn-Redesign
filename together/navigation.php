@@ -6,7 +6,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
 						<i class="fa fa-bars"></i>
 					</button>
-					<a class="navbar-brand" href="#page-top">
+					<a class="navbar-brand" href="index.php">
 						<i class="fa fa-linkedin fa-lg"></i>
 					</a>
 			</div>
@@ -24,17 +24,17 @@
                         <a href="#page-top"></a>
                     </li>
 					<li>
-                        <a href="#">News</a>
+                        <a href="index.php">News</a>
                     </li>
 					<li>
-                        <a href="#">Profile</a>
+                        <a href="profile.php">Profile</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connections</a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Keep In Touch</a>
                             </li>
-                            <li><a href="#">Import Contacts</a>
+                            <li><a href="contacts.php">Contacts</a>
                             </li>
                             <li><a href="#">Find Alumni</a>
                             </li>
