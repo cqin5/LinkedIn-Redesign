@@ -7,6 +7,16 @@
   text-align:center;
   line-height:normal;
 }
+.share_button{
+  font-family:'Arial Regular', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+  pointer-events: none;
+}
 .ax_paragraph {
   font-family:'Arial Regular', 'Arial';
   font-weight:400;
@@ -24,6 +34,16 @@
   color:#333333;
   text-align:left;
   line-height:normal;
+}
+.see_more1 {
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  color:#333333;
+  text-align:left;
+  line-height:normal;
+  pointer-events: none;
 }
 .ax_h2 {
   font-family:'Arial Bold', 'Arial';

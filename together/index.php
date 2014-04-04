@@ -2,9 +2,7 @@
 <html>
   <head>
     <title>Home</title>
-	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap Core CSS -->
+	 <!-- Bootstrap Core CSS -->
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!-- Fonts -->
@@ -14,6 +12,7 @@
 
     <!-- Custom Theme CSS -->
     <link href="css/chrome.css" rel="stylesheet">
+	<link href="css/profile.css" rel="stylesheet" type="text/css">
 	
 	<!-- Custom Random -->
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -23,11 +22,8 @@
     <link href="data/styles.css" type="text/css" rel="stylesheet"/>
     <link href="files/home/styles.css" type="text/css" rel="stylesheet"/>
     <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="resources/scripts/axure/axQuery.js"></script>
-    <script src="resources/scripts/axure/globals.js"></script>
     <script src="resources/scripts/axutils.js"></script>
-    <script src="resources/scripts/axure/annotation.js"></script>
     <script src="resources/scripts/axure/axQuery.std.js"></script>
     <script src="resources/scripts/axure/doc.js"></script>
     <script src="data/document.js"></script>
@@ -37,18 +33,13 @@
     <script src="resources/scripts/axure/expr.js"></script>
     <script src="resources/scripts/axure/geometry.js"></script>
     <script src="resources/scripts/axure/flyout.js"></script>
-    <script src="resources/scripts/axure/ie.js"></script>
     <script src="resources/scripts/axure/model.js"></script>
     <script src="resources/scripts/axure/repeater.js"></script>
-    <script src="resources/scripts/axure/sto.js"></script>
     <script src="resources/scripts/axure/utils.temp.js"></script>
-    <script src="resources/scripts/axure/variables.js"></script>
     <script src="resources/scripts/axure/drag.js"></script>
-    <script src="resources/scripts/axure/move.js"></script>
     <script src="resources/scripts/axure/visibility.js"></script>
     <script src="resources/scripts/axure/style.js"></script>
     <script src="resources/scripts/axure/adaptive.js"></script>
-    <script src="resources/scripts/axure/tree.js"></script>
     <script src="resources/scripts/axure/init.temp.js"></script>
     <script src="files/home/data.js"></script>
     <script src="resources/scripts/axure/legacy.js"></script>
@@ -169,7 +160,7 @@
             </div>
 
             <!-- Unnamed (Shape) -->
-            <div id="u22" class="ax_h1">
+            <div id="u22" class="see_more1">
               <img id="u22_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
               <div id="u23" class="text">
@@ -315,15 +306,6 @@
             </div>
 
             <!-- Unnamed (Shape) -->
-            <div id="u53" class="ax_shape">
-              <img id="u53_img" class="img " src="images/home/u53.png"/>
-              <!-- Unnamed () -->
-              <div id="u54" class="text">
-                <p><span>&nbsp;</span></p>
-              </div>
-            </div>
-
-            <!-- Unnamed (Shape) -->
             <div id="u55" class="ax_h1">
               <img id="u55_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
@@ -345,7 +327,7 @@
             <div id="u59" class="ax_paragraph" data-label="dynamictext">
               <img id="u59_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
-              <div id="u60" class="text">
+              <div id="u27" class="text">
                 <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000FF;">Anonymous</span><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000CC;">&nbsp;</span><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#000000;">has a new connection</span></p>
               </div>
             </div>
@@ -363,7 +345,7 @@
             <div id="u63" class="ax_paragraph" data-label="dynamictext">
               <img id="u63_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
-              <div id="u64" class="text">
+              <div id="u27" class="text">
                 <p><span style="font-family:'Arial Bold', 'Arial';font-weight:700;color:#0000FF;">Anonymous2</span><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#000000;">&nbsp;</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#666666;">Student at the University Of Western Ontario</span></p><p><span style="font-family:'Arial Regular', 'Arial';font-weight:400;color:#666666;">London, Ontario, Canada</span></p>
               </div>
             </div>
@@ -502,11 +484,11 @@
       </div>
 
       <!-- Unnamed (Shape) -->
-      <div id="u93" class="ax_shape">
+      <div id="u93" class="share_button">
         <img id="u93_img" class="img " src="images/home/u93.png"/>
         <!-- Unnamed () -->
         <div id="u94" class="text">
-          <p><span>Share</span></p>
+         <p><span>Share</span></p>
         </div>
       </div>
 
